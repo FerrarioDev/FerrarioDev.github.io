@@ -1,0 +1,236 @@
+{
+    "basics": {
+      "name": "Geronimo Ferrario",
+      "label": "Data Scientist - Data Analyst - Software Developer",
+      "image": "./public/perfilsquare.png",
+      "email": "ferrario.dev@gmail.com",
+      "phone": "(+54) 3547 46-0834",
+      "url": "",
+      "summary": "Enthusiastic and proactive Data Scientist, Data Analyst, and Software Developer with a passion for leveraging technology to solve problems. Eager learner constantly seeking to expand my skills and knowledge in Python, data analysis, machine learning, ai, and web development. I thrive in dynamic environments where I can apply my creativity and analytical skills to drive innovation and deliver impactful solutions. Committed to lifelong learning and personal growth, I actively engage in projects that challenge me and foster continuous improvement.",
+      "location": {
+        "address": "Arenales 457",
+        "postalCode": "5121",
+        "city": "Despenaderos",
+        "countryCode": "Argentina",
+        "region": "Cordoba"
+      },
+      "profiles": [
+        {
+        "network": "LinkedIn",
+        "username": "Geronimo",
+        "url": "https://www.linkedin.com/in/geronimo-ferrario-3552061a9/"
+        },
+        {
+          "network": "GitHub",
+          "username": "FerrarioDev",
+          "url": "https://github.com/FerrarioDev"
+        }
+      ]
+    },
+    "work": [{
+      "name": "Denso",
+      "position": "IT Systems Support Specialist",
+      "url": "",
+      "startDate": "2022-07-01",
+      "endDate": "2024-02-21",
+      "summary": "IT system support. Aligning security with business goals. Instalation and configuration of hadware devices. Correct compliance issues. Final users support. H&S JSOX audits.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "education": [{
+      "institution": "IES21",
+      "url": "https://institution.com/",
+      "area": "Systems Analyst",
+      "location":"Cordoba, Argentina",
+      "studyType": "Bachelor",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "status": "Pursuing",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "certificates": [
+      {
+      "name": "Django Web Framework",
+      "date": "2021-11-07",
+      "issuer": "Coursera",
+      "url": "https://coursera.org/share/153ed38340e63d93664cd6d39a5de668",
+      "skills": ["Python", "Backend", "Web Development"]
+      },
+      {
+        "name": "Programming in Python",
+        "date": "2021-11-07",
+        "issuer": "Coursera",
+        "url": "https://coursera.org/share/beb47d8d78c0315dac3acce1e5d08fd6",
+        "skills": ["Python", "API", "Computer Programming"]
+      },
+      {
+        "name": "Version Control",
+        "date": "2021-11-07",
+        "issuer": "Coursera",
+        "url": "/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button",
+        "skills": ["Git", "GitHub", "Linux", "Bash (Unix Shell)"]
+      },
+      {
+        "name": "Django Web Framework",
+        "date": "2021-11-07",
+        "issuer": "Coursera",
+        "url": "https://coursera.org/share/153ed38340e63d93664cd6d39a5de668",
+        "skills": ["Python", "Backend", "Web Development"]
+      },
+      {
+        "name": "Data Visualization",
+        "date": "2021-11-07",
+        "issuer": "Kaggle",
+        "url": "https://www.kaggle.com/enzogeronimoferrario",
+        "skills": ["Matplotlib", "Seaborn", "Pandas", "Python"]
+      },
+      {
+        "name": "Data Manipulation with pandas",
+        "date": "2022-10-07",
+        "issuer": "Data Camp",
+        "url": "https://www.datacamp.com/completed/statement-of-accomplishment/course/d56028bebd7875162a8066e4451b9a67ed6a808f",
+        "skills": ["Pandas", "Numpy","Python"]
+      },
+      {
+        "name": "Web Scrapping in Python",
+        "date": "2024-02-20",
+        "issuer": "Data Camp",
+        "url": "https://www.datacamp.com/completed/statement-of-accomplishment/course/492a081f6a9b81ff800df59eb14a9cd04df27e95",
+        "skills": ["Scrapy","Python"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "",
+        "keywords": [
+          
+        ]
+      },
+      {
+        "name": "Go/Golang",
+        "level": "",
+        "keywords": [
+          
+        ]
+      },
+      {
+        "name": "Data Analysis",
+        "level": "",
+        "keywords": [
+          
+        ]
+      },
+      {
+        "name": "Data Manipulation",
+        "level": "",
+        "keywords": [
+          
+        ]
+      },
+      {
+        "name": "Data Visualization",
+        "level": "",
+        "keywords": [
+          
+        ]
+      },
+      {
+        "name": "Pandas",
+        "level": "",
+        "keywords": [
+          
+        ]
+      },
+      {
+        "name": "Web Scrapping",
+        "level": "",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Scrapy",
+          "Beautiful Soup"
+        ]
+      },
+      {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": 
+        [
+        "HTML",
+        "CSS",
+        "JavaScript"
+        ]
+      },
+      {
+        "name": "Django",
+        "level": "",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Fluent speaker"
+      },
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [{
+      "name": "",
+      "keywords": [
+        "",
+        ""
+      ]
+    }],
+    "references": [{
+      "name": "",
+      "reference": ""
+    }],
+    "projects": [
+      {
+        "name": "LinkedIn Canada EDA",
+        "isActive": true,
+        "startDate": "2024-01-26",
+        "endDate": "2024-01-26",
+        "description": "An Exploratory Data Analysis of data science job postings in Canada sourced from LinkedIn, providing insights into company information, job titles, locations, contract types, experience levels, and industry sectors.",
+        "highlights": [
+          "Data Analysis", "Data preprocessing", "Python"
+        ],
+        "url": "https://www.kaggle.com/code/enzogeronimoferrario/linkedin-canada-eda/"
+      },
+      {
+        "name": "Laptop Pricing EDA & Simple Prediction",
+        "isActive": false,
+        "startDate": "2024-01-29",
+        "endDate": "2024-01-29",
+        "description": "An exploratory data analysis of laptop pricing, examining various features such as brand, processor type, RAM, storage capacity, and other specifications. Additionally, a simple price predictor model using scikit-learn is developed to forecast laptop prices based on their features.",
+        "highlights": [
+          "Scikit-learn", "Data Analysis", "Python", "Data preprocessing"
+        ],
+        "url": "https://www.kaggle.com/code/enzogeronimoferrario/laptop-pricing-eda-simple-prediction"
+      },
+      {
+        "name": "Books Scrapper",
+        "isActive": false,
+        "startDate": "2024-03-03",
+        "endDate": "2021-01-01",
+        "description": "A simple web scrapper using Scrapy to extract book data from https://books.toscrape.com/",
+        "highlights": [
+          "Scrapy", "Python"
+        ],
+        "url": "https://github.com/FerrarioDev/books-scrapper"
+      }
+    ]
+  }
+  
