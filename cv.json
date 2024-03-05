@@ -224,12 +224,23 @@
         "name": "Books Scrapper",
         "isActive": false,
         "startDate": "2024-03-03",
-        "endDate": "2021-01-01",
+        "endDate": "2024-03-03",
         "description": "A simple web scrapper using Scrapy to extract book data from https://books.toscrape.com/",
         "highlights": [
           "Scrapy", "Python"
         ],
         "url": "https://github.com/FerrarioDev/books-scrapper"
+      },
+      {
+        "name": "File Cleaner",
+        "isActive": false,
+        "startDate": "2024-03-05",
+        "endDate": "2024-03-05",
+        "description": "File Mover is a Python script that automatically organizes files in your Downloads directory into specific folders based on their file types. It runs in the background and continuously monitors your Downloads folder for new files, moving them to appropriate destination folders.",
+        "highlights": [
+          "Scrapy", "Python"
+        ],
+        "url": "https://github.com/FerrarioDev/file_cleaner"
       }
     ]
   }
