@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Geronimo Ferrario",
-      "label": "Backend Developer - Python Developer - Software Developer",
+      "label": "Data Scientist - Data Analyst - Software Developer",
       "image": "https://avatars.githubusercontent.com/u/115109513?v=4",
       "email": "ferrario.dev@gmail.com",
       "phone": "(+54) 3547 46-0834",
       "url": "",
-      "summary": "Passionate and proactive Backend Developer with a keen drive to leverage technology for problem-solving. I am an enthusiastic learner, constantly seeking to elevate my proficiency in programming languages such as Python and Go, along with backend development techniques. Committed to ongoing growth and self-improvement, I embrace every opportunity for learning and development.",
+      "summary": "Enthusiastic and proactive Data Scientist, Data Analyst, and Software Developer with a passion for leveraging technology to solve problems. Eager learner constantly seeking to expand my skills and knowledge in Python, data analysis, machine learning, ai, and web development. I thrive in dynamic environments where I can apply my creativity and analytical skills to drive innovation and deliver impactful solutions. Committed to lifelong learning and personal growth, I actively engage in projects that challenge me and foster continuous improvement.",
       "location": {
         "address": "Arenales 457",
         "postalCode": "5121",
@@ -198,17 +198,6 @@
       "reference": ""
     }],
     "projects": [
-      {
-        "name": "Bank System",
-        "isActive": true,
-        "startDate": "2024-03-02",
-        "endDate": "2024-03-04",
-        "description": "Python-based bank system that allows users to create accounts, deposit and withdraw funds, and view their account balance. The system also includes error handling for invalid inputs and account balance checks to prevent overdrafts. Also provides security features such as password hashing and salting for user account protection.",
-        "highlights": [
-          "Backend", "Flask", "Python"
-        ],
-        "url": "https://www.kaggle.com/code/enzogeronimoferrario/linkedin-canada-eda/"
-      },
       {
         "name": "LinkedIn Canada EDA",
         "isActive": true,
